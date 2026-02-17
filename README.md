@@ -58,13 +58,11 @@
 ---
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=amanayad28&theme=radical&hide_border=false&include_all_commits=true&count_private=true
+## GitHub Stats
 
-https://github-readme-streak-stats.herokuapp.com/?user=amanayad28&theme=radical&hide_border=false
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=amanayad28&theme=radical&hide_border=false&layout=compact
-
----
+![Stats](https://github-readme-stats.vercel.app/api?username=amanyad28&show_icons=true)
+![Streak](https://streak-stats.demolab.com/?user=amanyad28)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanyad28&layout=compact)
 
 ## 📜 Certifications
 - Python Programming – Infosys Springboard  
