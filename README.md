@@ -58,11 +58,10 @@
 ---
 
 ## 📊 GitHub Stats
-## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amanyad28&show_icons=true)
+## ![Stats](https://github-readme-stats.vercel.app/api?username=amanyad28&show_icons=true)
 ![Streak](https://streak-stats.demolab.com/?user=amanyad28)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanyad28&layout=compact)
+## ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanyad28&layout=compact)
 
 ## 📜 Certifications
 - Python Programming – Infosys Springboard  
