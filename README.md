@@ -25,7 +25,9 @@
 ### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=HTML&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MYSQL](https://img.shields.io/badge/MYSQL-F7DF1E?style=for-the-badge&logo=MYSQL&logoColor=blue)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
