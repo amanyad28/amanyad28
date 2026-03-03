@@ -27,10 +27,10 @@
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=HTML&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MYSQL](https://img.shields.io/badge/MYSQL-F7DF1E?style=for-the-badge&logo=MYSQL&logoColor=blue)
+![MYSQL](https://img.shields.io/badge/MYSQL-F7DF1E?style=for-the-badge&logo=MYSQL&logoColor=orange)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Restful APIs](https://img.shields.io/badge/Restful%20LAPIs-102230?style=for-the-badge&logo=API&logoColor=orange)
 
 ### Machine Learning & Data
 - NumPy, Pandas, Matplotlib, Scikit-learn  
