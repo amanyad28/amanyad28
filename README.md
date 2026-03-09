@@ -39,7 +39,7 @@
 
 ### Tools & Platforms
 - GitHub, VS Code, Google Colab , Jupyter lab
-- OpenAI API, Twilio, n8n  
+- OpenAI API, Twilio, n8n , Claude 
 - MongoDB, MySQL  
 
 ---
